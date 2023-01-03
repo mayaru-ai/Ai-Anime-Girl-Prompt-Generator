@@ -1,0 +1,8 @@
+None
+Ring
+Earring
+Necklace
+Bracelet
+Pin
+Anklet
+Watch
